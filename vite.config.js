@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.NODE_ENV === 'production' ? '/context-vault/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/Context-Vault/' : '/',
   server: {
     port: 3000,
     open: true
