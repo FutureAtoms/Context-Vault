@@ -1,0 +1,19 @@
+{
+  "projectName": "Context Vault",
+  "projectDescription": "A secure vault for managing AI IDE prompts, memories, and workspace instructions",
+  "lastTaskId": 1,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Project Setup: Context Vault",
+      "description": "A secure vault for managing AI IDE prompts, memories, and workspace instructions",
+      "status": "todo",
+      "priority": 700,
+      "priorityDisplay": "high",
+      "dependsOn": [],
+      "createdAt": "2025-07-04T09:15:03.193Z",
+      "updatedAt": "2025-07-04T09:15:03.194Z",
+      "subtasks": []
+    }
+  ]
+}
